@@ -1,0 +1,17 @@
+alkana
+emoji
+googletrans==4.0.0rc1
+httpx==0.13.3
+keyboard
+mecab-python3
+openai
+pandas
+PyAudio
+pytchat
+requests
+torch
+unidic
+httpcore==0.15.0 
+httpx
+pymongo 
+googletrans
